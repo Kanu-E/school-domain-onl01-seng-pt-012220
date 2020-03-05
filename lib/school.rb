@@ -1,3 +1,7 @@
 # code here!
 
-Class School
+class School
+  
+  
+  
+end
